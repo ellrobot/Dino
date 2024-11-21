@@ -31,7 +31,7 @@ BOT_TOKEN = getenv("7553492462:AAH1eAPxZgGrqmMsa7zWmC240Kh4U9-K1y4")
 MUST_JOIN = getenv("MUST_JOIN", "DinoMistik")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = getenv("mongodb+srv://singaporemputt:1234@cluster0.6kmbp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", None)
+MONGO_DB_URI = getenv("mongodb+srv://singaporemputt:1234@cluster0.6kmbp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 
 CLEANMODE_DELETE_MINS = int(
